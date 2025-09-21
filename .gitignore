@@ -1,0 +1,11 @@
+# ROS 2 build artifacts
+/build/
+/install/
+/log/
+
+# Map image outputs (keep YAML + PGM if you want)
+*.pgm~
+
+# Editor files
+*.swp
+*.bak
